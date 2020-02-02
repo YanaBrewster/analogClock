@@ -64,3 +64,12 @@
     transform-origin: 300px 300px;
     transition: transform .5s ease-in-out;
 }
+
+.digital-clock {
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+    font-size: 3em;
+    font-family: monospace;
+    letter-spacing: 3px;
+}
